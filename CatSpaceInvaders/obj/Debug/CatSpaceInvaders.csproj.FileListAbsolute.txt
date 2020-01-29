@@ -1,0 +1,10 @@
+H:\CatSpaceInvaders\CatSpaceInvaders\bin\Debug\CatSpaceInvaders.exe.config
+H:\CatSpaceInvaders\CatSpaceInvaders\bin\Debug\CatSpaceInvaders.exe
+H:\CatSpaceInvaders\CatSpaceInvaders\bin\Debug\CatSpaceInvaders.pdb
+H:\CatSpaceInvaders\CatSpaceInvaders\obj\Debug\CatSpaceInvaders.csprojAssemblyReference.cache
+H:\CatSpaceInvaders\CatSpaceInvaders\obj\Debug\CatSpaceInvaders.Form1.resources
+H:\CatSpaceInvaders\CatSpaceInvaders\obj\Debug\CatSpaceInvaders.Properties.Resources.resources
+H:\CatSpaceInvaders\CatSpaceInvaders\obj\Debug\CatSpaceInvaders.csproj.GenerateResource.cache
+H:\CatSpaceInvaders\CatSpaceInvaders\obj\Debug\CatSpaceInvaders.csproj.CoreCompileInputs.cache
+H:\CatSpaceInvaders\CatSpaceInvaders\obj\Debug\CatSpaceInvaders.exe
+H:\CatSpaceInvaders\CatSpaceInvaders\obj\Debug\CatSpaceInvaders.pdb
